@@ -18,24 +18,24 @@
           "!type": "External",
           "file": [
             "forms",
-            "whileExtra",
-            "whileExtra.json"
+            "whileAB",
+            "whileAB.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "namesExtra",
-            "namesExtra.json"
+            "forAB",
+            "forAB.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "product",
-            "product.json"
+            "calcAB",
+            "calcAB.json"
           ]
         }
       ],
@@ -55,7 +55,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "whileExtra",
+      "firstform": "whileAB",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
