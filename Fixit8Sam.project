@@ -34,8 +34,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "calcAB",
-            "calcAB.json"
+            "calc",
+            "calc.json"
           ]
         }
       ],
